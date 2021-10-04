@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(29, 29, 29);
+    color: rgb(214, 214, 214);
+    font-family: Simple Console;
+}
+
+div {
+    display: block;
+    white-space: pre;
+}
